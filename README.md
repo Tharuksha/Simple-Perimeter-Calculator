@@ -20,3 +20,11 @@ This project is open for contributions. If you find a bug or would like to add a
 <br><br>
 
 <h1> || PREVIEWS || </h1>
+
+![General](https://i.imgur.com/TV40J7F.png) <br> <br>
+
+![General](https://i.imgur.com/dxMWCNt.png) <br> <br>
+
+![General](https://i.imgur.com/BFdvf98.png) <br> <br>
+
+![General](https://i.imgur.com/orAwYab.png) <br> <br>
